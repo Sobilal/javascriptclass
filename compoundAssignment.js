@@ -8,11 +8,11 @@ myNumbers.forEach((x)=>{
 addTotal +=x;
 });
 
-console.log("total sum is:" +addTotal);
+console.log("total sum is:" + addTotal);
 
 myNumbers.forEach((x)=>{
     multiplyTotal *=x;
     });
     
-    console.log("total sum is:" +multiplyTotal);
+    console.log("total sum is:" + multiplyTotal);
 
