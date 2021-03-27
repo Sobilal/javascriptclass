@@ -30,3 +30,4 @@ if (result) {
 } else {
   console.log("not a magical number");
 }
+
